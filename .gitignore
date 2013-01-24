@@ -1,6 +1,7 @@
 #################
 ## Eclipse
 #################
+wp-config.php
 
 *.pydevproject
 .project
@@ -161,4 +162,3 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
-wp-config.php
